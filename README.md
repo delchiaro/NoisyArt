@@ -1,3 +1,0 @@
-# NoisyArt
-
-Work in progress...
