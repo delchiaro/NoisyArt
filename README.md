@@ -115,7 +115,37 @@ Each row is a different split of the dataset.
   			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_test_200.zip'>link</a></td>
   			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_test_200_r255_png.zip'>link</a></td>
   		</tr>
-  </table>
+  </table
+	
+MD5SUM:
+<table>
+    <tr> 
+        <td>noisyart_test_200_r255_png.zip</td>
+	<td>146ea3d21ffe04d1b7182802cfdab23a</td>    
+    </tr>
+    <tr> 
+        <td>noisyart_test_200.zip</td>
+	<td>02fc6c55e72ef1e57a0d9aaa1ddbc33c</td>    
+    </tr>
+    <tr> 
+        <td>noisyart_trainval_200_r255_png.zip</td>
+	<td>926da12d1387202320a1fd48da9aca6c</td>    
+    </tr>
+    <tr> 
+        <td>noisyart_trainval_200.zip</td>
+	<td>ae020565f3047f57580cca31dabfe5aa</td>    
+    </tr>
+    <tr> 
+        <td>noisyart_trainval_3120_r255_png.zip</td>
+	<td>f42bbf7f853cc81048db96e3cb57e74c</td>    
+    </tr>
+    <tr> 
+        <td>noisyart_trainval_3120.zip</td>
+	<td>142b6e33a0f5398b23c7c7d372edce58</td>    
+    </tr>
+</table>
+  		
+
 
 # Acknowledgments
 The authors of this work would like to thank Nvidia Corporation for the donation of the Titan XP GPU used in this research.
