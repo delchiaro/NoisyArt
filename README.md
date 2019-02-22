@@ -58,7 +58,7 @@ We used 5 differents CNNs pretrained on ImageNet to extract visual features from
 * VGG16, VGG19
 * ResNet50, ResNet101, ResNet152
 
-Those feature vectures will be released publicly.
+Those feature vectors will be released publicly.
 
 
 
