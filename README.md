@@ -58,7 +58,7 @@ We used 5 differents CNNs pretrained on ImageNet to extract visual features from
 * VGG16, VGG19
 * ResNet50, ResNet101, ResNet152
 
-Those feature vectures will be released publicly.
+Those feature vectors will be released publicly.
 
 
 
@@ -87,13 +87,35 @@ We used the pre-processed image features to train a baseline classifier (BL) wit
 </p>
 
 
+# Downloads
+The dataset structure with metadata and without images can be downloaded from the release tab in this repository.
 
+The following table contains links to dataset images.
+You can download images in their original format and resolution, or image resized keeping the original aspect ratio with the shorter dimension resized to 255, stored with a lossless format (PNG).
+Each row is a different split of the dataset.
 
-# Dataset Download
-tbd
-
-# Code
-tbd
+<table>
+  		<tr> 
+  			<th>Split</th>
+  			<th>Original</th>
+  			<th>Resize-255 (png)</th>
+  		</tr>
+  		<tr> 
+  			<td>Trainval 3120 classes</td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_trainval_3120.zip'>link</a></td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_trainval_3120_r255_png.zip'>link</a></td>
+  </tr>
+		<tr> 
+  			<td>Trainval 200 classes</td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_trainval_200.zip'>link</a></td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_trainval_200_r255_png.zip'>link</a></td>
+  		</tr>
+  		<tr> 
+  			<td>Test-set 200 classes</td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_test_200.zip'>link</a></td>
+  			<td><a href='https://www.micc.unifi.it/wp-content/uploads/datasets/noisyart/noisyart_test_200_r255_png.zip'>link</a></td>
+  		</tr>
+  </table>
 
 # Acknowledgments
 The authors of this work would like to thank Nvidia Corporation for the donation of the Titan XP GPU used in this research.
