@@ -16,7 +16,7 @@ lr = 1e-4
 wd = 1e-7
 
 # LF common:
-lf_a = 1e-3
+lf_a = 1e-7
 
 # ES common:
 es_u = 40
