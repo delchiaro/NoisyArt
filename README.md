@@ -4,9 +4,6 @@ NoisyArt is dataset designed to support research on webly-supervised recognition
 The dataset consists of more than 80'000 webly-supervised images from 3120 classes, and a subset of 200 classes with more than 1300 verified images. Text and metadata for each class is also provided, to support zero-shot learning and  other multi-modality techniques in general.
 
 
-# bibtex
-tbd
-
 # Data
 We used DBpedia as main sources of metadata, retrieving textual informations and images for 3120 artworks scattered around the world. We created queried Google Images and Flickr to retrieve more images for each artwork.
 A test set with verified images was created using a subset of 200 classes.
@@ -144,7 +141,23 @@ MD5SUM:
 	<td>142b6e33a0f5398b23c7c7d372edce58</td>    
     </tr>
 </table>
-  		
+
+
+
+# bibtex
+```
+@inproceedings{DelChiaro2019,
+author = {Chiaro, R Del and Bagdanov, A and Bimbo, A Del},
+booktitle = {Proceedings of the 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+doi = {10.5220/0007392704670475},
+file = {:home/delchiaro/papers/Chiaro, Bagdanov, Bimbo - 2019 - {\{}NoisyArt{\}} A Dataset for Webly-supervised Artwork Recognition.pdf:pdf},
+publisher = {{\{}SCITEPRESS{\}} - Science and Technology Publications},
+title = {{{\{}NoisyArt{\}}: A Dataset for Webly-supervised Artwork Recognition}},
+url = {https://doi.org/10.5220/0007392704670475},
+year = {2019}
+}
+```
+
 
 
 # Acknowledgments
