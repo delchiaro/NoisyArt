@@ -142,6 +142,10 @@ MD5SUM:
     </tr>
 </table>
 
+### New split for CMU Oxford Sculpture Dataset 
+A new split is available to conduct artwork instance recognition experiments on CMU Oxford Sculpture Dataset.
+This split is published in the releases of this repo: [new split](https://github.com/delchiaro/NoisyArt/releases/tag/cmu-split-1.0)
+
 
 
 # bibtex
