@@ -150,15 +150,12 @@ This split is published in the releases of this repo: [new split](https://github
 
 # bibtex
 ```
-@inproceedings{DelChiaro2019,
-author = {Chiaro, R Del and Bagdanov, A and Bimbo, A Del},
-booktitle = {Proceedings of the 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
-doi = {10.5220/0007392704670475},
-file = {:home/delchiaro/papers/Chiaro, Bagdanov, Bimbo - 2019 - {\{}NoisyArt{\}} A Dataset for Webly-supervised Artwork Recognition.pdf:pdf},
-publisher = {{\{}SCITEPRESS{\}} - Science and Technology Publications},
-title = {{{\{}NoisyArt{\}}: A Dataset for Webly-supervised Artwork Recognition}},
-url = {https://doi.org/10.5220/0007392704670475},
-year = {2019}
+@inproceedings{del2019noisyart,
+  title={NoisyArt: A Dataset for Webly-supervised Artwork Recognition.},
+  author={Del Chiaro, Riccardo and Bagdanov, Andrew D and Del Bimbo, Alberto},
+  booktitle={VISIGRAPP (4: VISAPP)},
+  pages={467--475},
+  year={2019}
 }
 ```
 
